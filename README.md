@@ -1,4 +1,4 @@
 # hello-world
 
-Hello, I'm Scarlet Tourmaline
-I have 2 weeks to make a portfolio for university admissiom
+Hello, I'm Yang Tuấn Anh
+I have 3 months to make a portfolio for university admissiom
